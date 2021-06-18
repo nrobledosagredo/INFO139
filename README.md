@@ -5,4 +5,5 @@
 - Nicolás Robledo
 - Francisco Aranda
 - Rodrigo Almonacid
-- Fecha de entrega: 18/06/2021
+
+#### **Fecha de entrega:** 18/06/2021
